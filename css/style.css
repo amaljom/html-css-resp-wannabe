@@ -146,12 +146,15 @@ img {
     }
     .lessons .col {
         width: 100%;
+        margin-top: 60px;
     }
     .steps .col {
         width: 100%;
+        margin-top: 40px;
     }
     .why-us .col-left {
         width: 100%;
+        margin-bottom: 40px;
     }
     .why-us .col-right {
         width: 100%;
